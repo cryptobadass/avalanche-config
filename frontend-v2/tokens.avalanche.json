@@ -1,0 +1,80 @@
+{
+    "name": "Avalanche",
+    "timestamp": "2022-01-06T00:00:00.000Z",
+    "logoURI": "https://cdn.discordapp.com/emojis/902638084779278356.png",
+    "keywords": [
+        "avalanche",
+        "listed"
+    ],
+    "version": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+    },
+    "tokens": [
+        {
+            "address": "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7",
+            "chainId": 43113,
+            "name": "Wrapped Avax",
+            "symbol": "WAVAX",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7/logo.png"
+        },
+        {
+            "address": "todo BAL address here",
+            "chainId": 43113,
+            "name": "Balancer",
+            "symbol": "BAL",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xba100000625a3754423978a60c9317c58a424e3D/logo.png"
+        },
+        {
+            "address": "todo USDT.e address here",
+            "chainId": 43113,
+            "name": "Tether USD",
+            "symbol": "USDT.e",
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
+        },
+        {
+            "address": "todo USDC.e address here",
+            "chainId": 43113,
+            "name": "USD Coin",
+            "symbol": "USDC.e",
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
+        },
+        {
+            "address": "todo UNI.e address here",
+            "chainId": 43113,
+            "name": "Uniswap",
+            "symbol": "UNI.e",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984/logo.png"
+        },
+        {
+            "address": "todo WBTC address here",
+            "chainId": 43113,
+            "name": "Wrapped BTC",
+            "symbol": "WBTC",
+            "decimals": 8,
+            "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599/logo.png"
+        },
+        {
+            "address": "todo Dai address here",
+            "chainId": 43113,
+            "name": "Dai Stablecoin",
+            "symbol": "Dai",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png"
+        },
+        {
+            "address": "todo LINK address here",
+            "chainId": 43113,
+            "name": "ChainLink Token",
+            "symbol": "LINK",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x514910771AF9Ca656af840dff83E8264EcF986CA/logo.png"
+        }
+    ]
+}
