@@ -20,15 +20,6 @@
           "current_estimate": "942.85714286",
           "velocity": "0",
           "week": 91
-        },
-        {
-          "snapshot_timestamp": "2022-03-07T23:50:29.000Z",
-          "address": "0xfF85a5Ff1e5f2D6Cc736B2F1c2fAcd54386E284A",
-          "token_address": "0xfad1257bd61131b6bb60bee08289167099014ac6",
-          "chain_id": 43113,
-          "current_estimate": "9914.33441307",
-          "velocity": "0",
-          "week": 91
         }
       ]
     }
